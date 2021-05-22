@@ -2,6 +2,8 @@
 
 STS는 버전 4.8.1 사용(emmet설치 및 STS3 add-on 설치) 기준
 
+현재 사용중인 그램노트북에 설정한 값임
+
 # 1.인코딩
 
 general - workspace - encoding (UTF-8로 변경)
