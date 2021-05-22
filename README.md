@@ -78,3 +78,7 @@ emmet도 설치하고 설정해줬음(jsp, java 추가)
 ![](./img/2021-05-13-22-13-36.png)
 
 perspective = Spring, view설정은 위와 같음
+
+# 8. 주석 색 설정
+
+XML, JSP, JAVA파일 초록색으로 주석 설정함
