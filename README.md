@@ -84,3 +84,9 @@ perspective = Spring, view설정은 위와 같음
 # 8. 주석 색 설정
 
 XML, JSP, JAVA파일 초록색으로 주석 설정함
+
+# 9. 콘솔 버퍼 설정
+
+ansi콘솔 버퍼 limit 해제
+
+![](./img/2021-06-12-23-50-42.png)
